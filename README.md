@@ -4,20 +4,20 @@ This is a full-stack web application built using the MERN stack (MongoDB, Expres
 
 Features
 
-RESTful API: Backend services built using Node.js and Express.js for handling CRUD operations.
-Database Management: Uses MongoDB and Mongoose for efficient data storage and retrieval.
-Interactive Front-End: Responsive UI With React.js and ChakraUI
-Deployment: Hosted on Render for scalable and reliable access.
+- RESTful API: Backend services built using Node.js and Express.js for handling CRUD operations.
+- Database Management: Uses MongoDB and Mongoose for efficient data storage and retrieval.
+- Interactive Front-End: Responsive UI With React.js and ChakraUI
+- Deployment: Hosted on Render for scalable and reliable access.
 
 Setup .env file
-
+效果：
+```sh
 MONGO_URI=your_mongo_uri
 PORT=5000
+```
 
 Run this app locally
-
-npm run build
+`npm run build`
 
 Start the app
-
-npm run start
+`npm run start`
