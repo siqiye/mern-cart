@@ -17,7 +17,11 @@ PORT=5000
 ```
 
 Run this app locally
-`npm run build`
+```
+npm run build
+```
 
 Start the app
-`npm run start`
+```
+npm run start
+```
